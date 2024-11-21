@@ -1,5 +1,7 @@
 # Data Dictionary
 
+Gym data from [Kaggle](https://www.kaggle.com/datasets/mexwell/gym-check-ins-and-user-metadata)
+
 ## User Data
 
 | field | description | cleaning notes |
